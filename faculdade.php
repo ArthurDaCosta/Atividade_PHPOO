@@ -10,4 +10,5 @@ class Faculdade
         $this->nome = $nome;
         $this->disciplinas = $disciplinas;
     }
+
 }
