@@ -1,0 +1,17 @@
+{
+    "disciplinas": [
+        {
+            "nome": "Matematica",
+            "cargaHoraria": 3600,
+            "professor": "Viviane",
+            "alunos": [
+                {
+                    "matricula": 5002,
+                    "notas": [],
+                    "nome": "Richard",
+                    "idade": 14
+                }
+            ]
+        }
+    ]
+}
