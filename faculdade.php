@@ -11,4 +11,9 @@ class Faculdade
         $this->disciplinas = $disciplinas;
     }
 
+    function __toString()
+    {
+       return "\n Faculdade Criada \n\n";
+    }
+
 }
